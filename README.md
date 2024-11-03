@@ -34,8 +34,8 @@ I learned the fundamentals and how to program a little with HTML, CSS, JavaScrip
 
 <li>
 <b>freshman year college</b>: I tested out of a computer science class for my first semester thanks to my IB CS HL exam score.
-I learned some new stuff by myself outside of school. I learned the basics of C++, TypeScript, and learned how to use React at a basic level.
-I also taught myself how to use Tailwind and Bootstrap through project-based learning.
+I learned some new stuff by myself outside of school. I learned the basics of C++ and TypeScript.
+I also taught myself how to use React, Tailwind, and Bootstrap through project-based learning.
 </li>
   
 </ul>
