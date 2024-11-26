@@ -19,21 +19,31 @@ Feel free to reach out to me: <br>
 <li>LinkedIn and email address is somewhere in my profile</li>
 </ul>
 
+<br>
+
 My computer science journey: <br>
 <ul>
-  
-<li>
-<b>senior year high school</b>: I had decent exposure to computer science by taking IB Computer Science HL and joined Girls Who Code.
-I learned the fundamentals and how to program a little with HTML, CSS, JavaScript, and Python. 
-</li>
-
-<li>
-<b>freshman year college</b>: I tested out of a computer science class for my first semester thanks to my IB CS HL exam score.
-I learned some new stuff by myself outside of school. I learned the basics of C++ and TypeScript.
-I also taught myself how to use React, Tailwind, and Bootstrap through project-based learning.
-</li>
-  
+	<li>4th Year High School:
+		<ul>
+			<li>I has exposure to programming mobile apps in Code.org with an older version of JavaScript</li>
+	  		<li>I started learning the basics of HTML, CSS, JavaScript, and a little bit of Python</li>
+			<li>I did a CS Internal Assesment for IB CS HL where I managed and filtered emails using a Gmail API</li>
+		</ul>
+	</li>
 </ul>
+<ul>
+	<li>1st Year College:
+		<ul>
+			<li>Thanks to my score from the IB CS HL exam, I tested out of a computer science class</li>
+			<li>I learned the basics of C++, TypeScript, and SQL by myself</li>
+			<li>I am also improving my proficieny in Python and JavaScript</li>
+			<li>🌱 I’m currently learning MERN stack and APIs by myself</li>
+			<li>🔭 I’m currently working on building a React Native mobile application with Supabase and enhancing my skills through project-based learning</li>
+			<li>I'm looking forward to learning Data Structures and Algorithms, OOP, PHP, Vue js, and OS fundamentals</li>
+		</ul>
+	</li>
+</ul>
+
 
 
 
