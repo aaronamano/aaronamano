@@ -25,7 +25,7 @@ My computer science journey: <br>
 <ul>
 	<li>4th Year High School:
 		<ul>
-			<li>I has exposure to programming mobile apps in Code.org with an older version of JavaScript</li>
+			<li>I had exposure to programming mobile apps in Code.org with an older version of JavaScript</li>
 	  		<li>I started learning the basics of HTML, CSS, JavaScript, and a little bit of Python</li>
 			<li>I did a CS Internal Assesment for IB CS HL where I managed and filtered emails using a Gmail API</li>
 		</ul>
@@ -39,7 +39,7 @@ My computer science journey: <br>
 			<li>I am also improving my proficieny in Python and JavaScript</li>
 			<li>🌱 I’m currently learning MERN stack and APIs by myself</li>
 			<li>🔭 I’m currently working on building a React Native mobile application with Supabase and enhancing my skills through project-based learning</li>
-			<li>I'm looking forward to learning Data Structures and Algorithms, OOP, PHP, Vue js, and OS fundamentals</li>
+			<li>⏩ I'm looking forward to learning Data Structures and Algorithms, OOP, PHP, Vue js, and OS fundamentals</li>
 		</ul>
 	</li>
 </ul>
