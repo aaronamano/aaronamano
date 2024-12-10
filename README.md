@@ -35,11 +35,11 @@ My computer science journey: <br>
 	<li>1st Year College:
 		<ul>
 			<li>Thanks to my score from the IB CS HL exam, I tested out of a computer science class</li>
-			<li>I learned the basics of C++, TypeScript, and SQL by myself</li>
+			<li>I learned the basics of C++, TypeScript, and SQL independently</li>
 			<li>I am also improving my proficieny in Python and JavaScript</li>
-			<li>🌱 I’m currently learning MERN stack and APIs by myself</li>
-			<li>🔭 I’m currently working on building a React Native mobile application with Supabase and enhancing my skills through project-based learning</li>
-			<li>⏩ I'm looking forward to learning Data Structures and Algorithms, OOP, PHP, Vue js, and OS fundamentals</li>
+			<li>🌱 I’m currently learning Data Structures and Algorithms</li>
+			<li>🔭 I’m currently working on completing Neetcode problems and a fullstack development roadmap</li>
+			<li>⏩ I'm looking forward to learning System/Software Design Patterns, Operating Systems, and the Software Lifecycle</li>
 		</ul>
 	</li>
 </ul>
