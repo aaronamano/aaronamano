@@ -38,8 +38,8 @@ My computer science journey: <br>
 			<li>I learned the basics of C++, TypeScript, and SQL independently</li>
 			<li>I am also improving my proficieny in Python and JavaScript</li>
 			<li>🌱 I’m currently learning Data Structures and Algorithms</li>
-			<li>🔭 I’m currently working on completing Neetcode problems and a fullstack development roadmap</li>
-			<li>⏩ I'm looking forward to learning System/Software Design Patterns, Operating Systems, and the Software Lifecycle</li>
+			<li>🔭 I’m currently working on completing Neetcode problems and learning fullstack dev through project-based learning</li>
+			<li>⏩ I'm looking forward to learning System/Software Design Patterns and Operating Systems</li>
 		</ul>
 	</li>
 </ul>
