@@ -1,7 +1,7 @@
 ## Hi there I'm Aaron‼️👋
-I'm an aspiring computer science major learning new skills and embracing difficult tasks!
-Also, I'm a current undergraduate student in the class of 2028 at University of Michigan Dearborn〽️
-My interests in computer science are mainly fullstack web development and artificial intelligence!
+I'm an aspiring computer science major learning new skills and embracing difficult tasks! <br>
+Also, I'm a current undergraduate student in the class of 2028 at University of Michigan Dearborn〽️ <br>
+My interests in computer science are mainly fullstack web development and artificial intelligence! <br>
 
 Skills:
 <ul>
