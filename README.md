@@ -21,32 +21,6 @@ Feel free to reach out to me: <br>
 
 <br>
 
-My computer science journey: <br>
-<ul>
-	<li>4th Year High School:
-		<ul>
-			<li>I had exposure to programming mobile apps in Code.org with an older version of JavaScript</li>
-	  		<li>I started learning the basics of HTML, CSS, JavaScript, and a little bit of Python</li>
-			<li>I did a CS Internal Assesment for IB CS HL where I managed and filtered emails using a Gmail API</li>
-		</ul>
-	</li>
-</ul>
-<ul>
-	<li>1st Year College:
-		<ul>
-			<li>Thanks to my score from the IB CS HL exam, I tested out of a computer science class</li>
-			<li>I learned the basics of C++, TypeScript, and SQL independently</li>
-			<li>I am also improving my proficieny in Python and JavaScript</li>
-			<li>🌱 I’m currently learning Data Structures and Algorithms</li>
-			<li>🔭 I’m currently working on completing Neetcode problems and learning fullstack dev through project-based learning</li>
-			<li>⏩ I'm looking forward to learning System/Software Design Patterns and Operating Systems</li>
-		</ul>
-	</li>
-</ul>
-
-
-
-
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
