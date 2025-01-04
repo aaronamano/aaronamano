@@ -1,13 +1,13 @@
-## Hi there 👋
-I'm Aaron! I am an aspiring computer science major who enjoys learning new skills and loves to take on difficult tasks!
-Currently, I am an undergraduate student in the class of 2028, who is just starting to get his feet wet and learn everything about computer science along the way.
+## Hi there I'm Aaron‼️👋
+I'm an aspiring computer science major learning new skills and embracing difficult tasks!
+Also, I'm a current undergraduate student in the class of 2028 at University of Michigan Dearborn〽️
 My interests in computer science are mainly fullstack web development and artificial intelligence!
 
 Skills:
 <ul>
 	<li>HTML/CSS, JavaScript/TypeScript, Python, C++</li>
-	<li>React, Bootstrap/Tailwind CSS</li>
-	<li>GitHub, VSCode</li>
+	<li>Mongoose, React.js, Tailwind CSS, Node.js, Express.js</li>
+	<li>MongoDB, Git, GitHub, VSCode, Postman, Vercel</li>
 </ul>
 
 
