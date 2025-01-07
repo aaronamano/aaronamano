@@ -16,7 +16,6 @@ Skills:
 Feel free to reach out to me: <br>
 <ul>
 <li>Discord, Instagram, Twitter/X: @aaronamano</li>
-<li>LinkedIn and email address is somewhere in my profile</li>
 </ul>
 
 <br>
