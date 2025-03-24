@@ -1,19 +1,11 @@
-## Hi there I'm Aaron‼️👋
-I'm an aspiring computer science major learning new skills and embracing difficult tasks! <br>
-Also, I'm a current undergraduate student in the class of 2028 at University of Michigan Dearborn〽️ <br>
-My interests in computer science are mainly fullstack web development and artificial intelligence! <br>
-
-Skills:
-<ul>
-	<li>HTML/CSS, JavaScript/TypeScript, Python, C++</li>
-	<li>Mongoose, React.js, Tailwind CSS, Node.js, Express.js</li>
-	<li>MongoDB, Git, GitHub, VSCode, Postman, Vercel</li>
-</ul>
-
+## What's up, I'm Aaron‼️👋
+I'm an aspiring fullstack AI engineer, keeping up with the latest technologies and trends of the tech industry.
+Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️
+Hopefully, my GitHub commit calendar becomes mostly green as I strive to be a highly ambitious and well-visioned developer 🟩
 
 <br>
 
-Feel free to reach out to me: <br>
+📫Feel free to reach out to me: <br>
 <ul>
 <li>Discord, Instagram, Twitter/X: @aaronamano</li>
 </ul>
