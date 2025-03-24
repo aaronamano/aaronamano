@@ -5,14 +5,6 @@ Hopefully my GitHub commit calendar becomes mostly green, as I strive to be a hi
 
 <br>
 
-On my free time I like to: <br>
-<ul>
-    <li>Watch Netflix + Youtube</li>
-    <li>Play open-world video games</li>
-    <li>Practice martial arts </li>
-</ul>
-
-
 📫Feel free to reach out to me: <br>
 <ul>
 <li>Discord, Instagram, Twitter/X: @aaronamano</li>
