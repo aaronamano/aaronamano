@@ -1,8 +1,6 @@
 ## What's up, I'm Aaron‼️👋
 Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️
 
-<br>
-
 I strive to build and innovate impact-driven projects that contribute to positively changing the future. Also, I desire to constantly learn and embrace AI while leveraging them in my projects 🤖🙂
 
 <br>
