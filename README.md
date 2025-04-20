@@ -1,5 +1,5 @@
 ## What's up, I'm Aaron‼️👋
-Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️ <br>
+Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️
 
 <br>
 
