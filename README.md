@@ -1,7 +1,7 @@
 ## What's up, I'm Aaron‼️👋
 I'm an aspiring fullstack AI engineer, keeping up with the latest technologies and trends of the tech industry. <br>
 Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️ <br>
-Hopefully my GitHub commit calendar becomes mostly green, as I strive to be a highly productive and insightful developer with an ambitious vision 🔜💚
+On my free time, I like to play open-world video games, watch Netflix & Youtube, practice martial arts, and even code.
 
 <br>
 
