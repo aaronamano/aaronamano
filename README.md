@@ -1,7 +1,6 @@
 ## What's up, I'm Aaron‼️👋
-I'm an aspiring fullstack AI engineer, keeping up with the latest technologies and trends of the tech industry. <br>
 Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️ <br>
-On my free time, I like to play open-world video games, watch Netflix & Youtube, practice martial arts, and even code.
+I strive to build and innovate impact-driven projects that contribute to positively changing the future. Also, I desire to constantly learn and embrace AI while leveraging them in my projects 🤖🙂
 
 <br>
 
