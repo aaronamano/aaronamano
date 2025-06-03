@@ -5,8 +5,8 @@ I strive to build and innovate impact-driven projects that contribute to positiv
 
 <br>
 
-🔭 I’m currently working on developing several fullstack projects this summer and attending online hackathons sponsored by Devpost + large tech companies
-🌱 I’m currently learning neetcode 150, system design, and backend development (databases, devops, cloud computing)
+🔭 I’m currently working on several fullstack projects for online hackathons sponsored by Devpost + large tech companies as well as neetcode 150 <br>
+🌱 I’m currently learning system design, backend development (databases, devops, cloud computing), and more AI concepts
 
 📫 How to reach me: <br>
 <ul>
