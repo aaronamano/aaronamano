@@ -5,10 +5,15 @@ I strive to build and innovate impact-driven projects that contribute to positiv
 
 <br>
 
-📫Feel free to reach out to me: <br>
+🔭 I’m currently working on developing several fullstack projects this summer and attending online hackathons sponsored by Devpost + large tech companies
+🌱 I’m currently learning neetcode 150, system design, and backend development (databases, devops, cloud computing)
+
+📫 How to reach me: <br>
 <ul>
 <li>Discord, Instagram, Twitter/X: @aaronamano</li>
 </ul>
+
+
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
