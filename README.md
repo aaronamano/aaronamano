@@ -1,17 +1,19 @@
 ## What's up, I'm Aaron‼️👋
-Currently, I'm studying Computer Information Science at the University of Michigan Dearborn and expecting to graduate in 2028 〽️
+CS @ University of Michigan Dearborn 2028 〽️
 
-I strive to build and innovate impact-driven projects that contribute to positively changing the future. Also, I desire to constantly learn and embrace AI while leveraging them in my projects 🤖🙂
+I strive to build and innovate impact-driven projects that help combat global issues 🌎
 
-<br>
-
-🔭 I’m currently working on several fullstack projects for online hackathons sponsored by Devpost + large tech companies as well as neetcode 150 <br>
+🔭 I’m currently working on several fullstack projects for online hackathons as well as neetcode 150 <br>
 🌱 I’m currently learning system design, backend development (databases, devops, cloud computing), and more AI concepts
 
-📫 How to reach me: <br>
-<ul>
-<li>Discord, Instagram, Twitter/X: @aaronamano</li>
-</ul>
+⚡ Some cool facts about me:
+- I played the piano for about 7-8 years 🎹
+- I'm a former 2nd degree black belt in taekwondo 🥋
+- I watch a lot of Netflix 📺
+- I am an NBA fan 🏀
+
+📫 How to reach me:
+- Discord, Instagram, Twitter/X: @aaronamano
 
 
 
