@@ -1,9 +1,9 @@
-## What's up, I'm Aaron‼️👋
-CS @ University of Michigan Dearborn 2028 〽️
+## What's up, I'm Aaron 👋
+CS AI @ University of Michigan Dearborn 2028 〽️
 
-I strive to build and innovate impact-driven projects that help combat global issues 🌎
+I strive to build and innovate impact-driven projects that combat global issues and help people 🌎
 
-🔭 I’m currently working on several fullstack projects for online hackathons as well as neetcode 150 <br>
+🔭 Currently, I'm further developing my projects from past hackathons and slowly planning out new projects mainly for AI backend dev. Alao, I'm doing neetcode 150 once in a while. <br>
 🌱 I’m currently learning system design, backend development (databases, devops, cloud computing), and more AI concepts
 
 ⚡ Some cool facts about me:
@@ -11,6 +11,7 @@ I strive to build and innovate impact-driven projects that help combat global is
 - I'm a former 2nd degree black belt in taekwondo 🥋
 - I watch a lot of Netflix 📺
 - I am an NBA fan 🏀
+- I like going to the gym and using the stair climber 👟
 
 📫 How to reach me:
 - Discord, Instagram, Twitter/X: @aaronamano
