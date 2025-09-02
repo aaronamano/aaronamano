@@ -1,10 +1,7 @@
 ## What's up, I'm Aaron 👋
-CS AI @ University of Michigan Dearborn 2028 〽️
+CS @ University of Michigan Dearborn 2028 〽️
 
-I strive to build and innovate impact-driven projects that combat global issues and help people 🌎
-
-🔭 Currently, I'm further developing my projects from past hackathons and slowly planning out new projects mainly for AI backend dev. Also, I'm doing neetcode 150 once in a while. <br>
-🌱 I’m currently learning system design, backend development (databases, devops, cloud computing), and more AI concepts
+I strive to build software that help solve real world problems and help people 🌎
 
 ⚡ Some cool facts about me:
 - I played the piano for about 7-8 years 🎹
