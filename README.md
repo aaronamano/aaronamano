@@ -1,17 +1,40 @@
-## What's up, I'm Aaron 👋
+# What's up, I'm Aaron 👋
 CS @ University of Michigan Dearborn 2028 〽️
 
-I strive to build software that help solve real world problems and help people 🌎
+I strive to build AI backend software that help solve real world problems and help people 🌎
 
-⚡ Some cool facts about me:
+## ⚡ Some cool facts about me
 - I played the piano for about 7-8 years 🎹
 - I'm a former 2nd degree black belt in taekwondo 🥋
-- I watch a lot of Netflix 📺
-- I am an NBA fan 🏀
-- I like going to the gym and using the stair climber 👟
+- I love to watch anime 📺
+  - my favorites are hxh, sakamoto days, haikyuu, kuroko no basketball, mashle, and demon slayer
+- I enjoy listening to music 🎧
+  - my taste of music consists of rave, rnb, and synthwave/cyberpunk
+- I watch NBA pretty often 🏀 and sometimes NFL 🏈
+- I go to the gym to do cardio 👟
 
-📫 How to reach me:
+## 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
+
+## 🌱 Aspiring Skillset
+### Backend
+- typescript/express✔️
+- python/fastapi✔️
+- mongodb✔️
+- supabase/postgresql
+- aws + gcp
+- go/golang
+- graphql/grpc
+- WebSockets�
+- Docker/Kubernetes
+### AI
+- Pinecone✔️
+- Langchain
+- FastMCP✔️
+- Pytorch/Tensorflow
+- AI Agents
+- RAG
+- Vector Databases✔️
 
 
 
