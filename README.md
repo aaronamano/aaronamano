@@ -1,9 +1,9 @@
-# What's up, I'm Aaron 👋
+## What's up, I'm Aaron 👋
 CS @ University of Michigan Dearborn 2028 〽️
 
 I strive to build AI backend software that help solve real world problems and help people 🌎
 
-## ⚡ Some cool facts about me
+### ⚡ Some cool facts about me
 - I played the piano for about 7-8 years 🎹
 - I'm a former 2nd degree black belt in taekwondo 🥋
 - I love to watch anime 📺
@@ -13,11 +13,11 @@ I strive to build AI backend software that help solve real world problems and he
 - I watch NBA pretty often 🏀 and sometimes NFL 🏈
 - I go to the gym to do cardio 👟
 
-## 📫 How to reach me
+### 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
 
-## 🌱 Aspiring Skillset
-### Backend
+### 🌱 Aspiring Skillset
+#### Backend
 - typescript/express✔️
 - python/fastapi✔️
 - mongodb✔️
@@ -25,9 +25,9 @@ I strive to build AI backend software that help solve real world problems and he
 - aws + gcp
 - go/golang
 - graphql/grpc
-- WebSockets�
+- WebSockets
 - Docker/Kubernetes
-### AI
+#### AI
 - Pinecone✔️
 - Langchain
 - FastMCP✔️
