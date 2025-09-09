@@ -1,7 +1,7 @@
 ## What's up, I'm Aaron 👋
 CS @ University of Michigan Dearborn 2028 〽️
 
-I strive to build AI backend software that help solve real world problems and help people 🌎
+I strive to build software that help solve real world problems and help people 🌎
 
 ### ⚡ Some cool facts about me
 - I played the piano for about 7-8 years 🎹
@@ -17,6 +17,9 @@ I strive to build AI backend software that help solve real world problems and he
 - Discord, Instagram, Twitter/X: @aaronamano
 
 ### 🌱 Aspiring Skillset
+#### Frontend
+- react/next.js✔️
+- tailwind✔️
 #### Backend
 - typescript/express✔️
 - python/fastapi✔️
@@ -27,6 +30,7 @@ I strive to build AI backend software that help solve real world problems and he
 - graphql/grpc
 - WebSockets
 - Docker/Kubernetes
+- LLM APIs (Perplexity, OpenAI, Gemini, etc.)✔️
 #### AI
 - Pinecone✔️
 - Langchain
