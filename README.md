@@ -25,12 +25,10 @@ I strive to build software that help solve real world problems and help people �
 - python/fastapi✔️
 - mongodb✔️
 - supabase/postgresql
-- aws + gcp
-- go/golang
-- graphql/grpc
-- WebSockets
+- aws/gcp
 - Docker/Kubernetes
-- LLM APIs (Perplexity, OpenAI, Gemini, etc.)✔️
+- RESTful APIs✔️
+- LLM APIs (OpenAI, Gemini, Perplexity, etc.)✔️
 #### AI
 - Pinecone✔️
 - Langchain
