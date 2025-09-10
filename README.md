@@ -25,15 +25,18 @@ I strive to build software that help solve real world problems and help people �
 - python/fastapi✔️
 - mongodb✔️
 - supabase/postgresql
-- aws/gcp
-- Docker/Kubernetes
+- aws
+- gcp✔️
+- Docker✔️
+- Kubernetes
 - RESTful APIs✔️
 - LLM APIs (OpenAI, Gemini, Perplexity, etc.)✔️
 #### AI
 - Pinecone✔️
 - Langchain
 - FastMCP✔️
-- Pytorch/Tensorflow
+- Pytorch
+- Tensorflow
 - AI Agents
 - RAG
 - Vector Databases✔️
