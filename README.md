@@ -20,6 +20,7 @@ I strive to build software that help solve real world problems and help people �
 #### Frontend
 - react/next.js✔️
 - tailwind✔️
+- three.js
 #### Backend
 - typescript/express✔️
 - python/fastapi✔️
@@ -31,17 +32,19 @@ I strive to build software that help solve real world problems and help people �
 - Kubernetes
 - RESTful APIs✔️
 - LLM APIs (OpenAI, Gemini, Perplexity, etc.)✔️
+- WebSockets
 #### AI
 - Pinecone✔️
-- Langchain
+- Vector Databases✔️
 - FastMCP✔️
+- MCP✔️
 - Pytorch
 - Tensorflow
+- Keras
+- Agentic AI
 - AI Agents
+- Langchain
 - RAG
-- Vector Databases✔️
-
-
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
