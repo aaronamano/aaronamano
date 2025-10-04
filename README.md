@@ -1,17 +1,17 @@
 ## What's up, I'm Aaron 👋
 CS @ University of Michigan Dearborn 2028 〽️
 
-I strive to build software that help solve real world problems and help people 🌎
+I strive to build software that tackle real world problems and help people 🌎
 
-### ⚡ Some cool facts about me
-- I played the piano for about 7-8 years 🎹
-- I'm a former 2nd degree black belt in taekwondo 🥋
-- I love to watch anime 📺
+### ⚡ Things I like to do on my freetime
+- Play piano 🎹
+- Watch anime 📺
   - my favorites are hxh, sakamoto days, haikyuu, kuroko no basketball, mashle, and demon slayer
-- I enjoy listening to music 🎧
-  - my taste of music consists of rave, rnb, and synthwave/cyberpunk
-- I watch NBA pretty often 🏀 and sometimes NFL 🏈
-- I go to the gym to do cardio 👟
+- Listening to music 🎧
+  - my taste consists of rave, dj, rnb, and synthwave/cyberpunk
+- Watch NBA 🏀 and sometimes umich football 🔵〽️🏈
+- Binge on Netflix and Youtube
+- Go to the gym
 
 ### 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
