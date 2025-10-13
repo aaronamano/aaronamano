@@ -8,10 +8,9 @@ I strive to build software that tackle real world problems and help people 🌎
 - Watch anime 📺
   - my favorites are hxh, sakamoto days, haikyuu, kuroko no basketball, mashle, and demon slayer
 - Listening to music 🎧
-  - my taste consists of rave, dj, rnb, and synthwave/cyberpunk
+  - my taste consists of rave/dj, rnb, and synthwave/cyberpunk
 - Watch NBA 🏀 and sometimes umich football 🔵〽️🏈
 - Binge on Netflix and Youtube
-- Go to the gym
 
 ### 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
@@ -49,10 +48,12 @@ I strive to build software that tackle real world problems and help people 🌎
   - [x] Pinecone
   - [x] Vector Databases
   - [x] MCP
-### Embedded
+### Low-level
 - [ ] Raspberry pi
 - [x] C++
+- [ ] C
 - [ ] Rust
+- [ ] Linux
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
