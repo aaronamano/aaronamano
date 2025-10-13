@@ -17,34 +17,42 @@ I strive to build software that tackle real world problems and help people 🌎
 - Discord, Instagram, Twitter/X: @aaronamano
 
 ### 🌱 Aspiring Skillset
-#### Frontend
-- react/next.js✔️
-- tailwind✔️
-#### Backend
-- typescript/express✔️
-- python/fastapi✔️
-- mongodb✔️
-- supabase/postgresql/mysql
-- aws
-- gcp✔️
-- Docker✔️
-- Kubernetes
-- RESTful APIs✔️
-- LLM APIs (OpenAI, Gemini, Perplexity, etc.)✔️
-- WebSockets
-- OAuth/JWT
-- C++✔️
-#### AI
-- Pinecone✔️
-- Vector Databases✔️
-- MCP✔️
-- Pytorch/Tensorflow
-- Keras
-- Agentic AI
-- AI Agents
-- Langchain/Langgraph
-- RAG
-- Neural Networks
+### Fullstack
+- [x] react/next.js
+- [x] tailwind
+- [x] typescript/express
+- [x] python/fastapi/flask
+- [x] mongodb
+- [x] supabase/sqlite
+- [ ] aws
+- [x] gcp
+- [x] Docker
+- [ ] Kubernetes
+- [x] RESTful APIs
+- [x] LLM APIs (OpenAI, Gemini, Perplexity, etc.)
+- [ ] WebSockets
+- [ ] OAuth/JWT
+### AI
+- [ ] Deep Learning
+  - [ ] Pytorch
+  - [ ] Tensorflow
+  - [ ] Keras
+  - [ ] Neural Networks
+- [ ] Machine Learning
+  - [ ] Pandas
+  - [ ] Scikit learn
+  - [ ] Numpy/Matplotlib
+- [ ] Generative AI
+  - [ ] AI Agents (Fetch.ai, CrewAI, etc.)
+  - [ ] Langchain/Langgraph
+  - [ ] RAG
+  - [x] Pinecone
+  - [x] Vector Databases
+  - [x] MCP
+### Embedded
+- [ ] Raspberry pi
+- [x] C++
+- [ ] Rust
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
