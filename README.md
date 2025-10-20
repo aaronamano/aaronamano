@@ -23,6 +23,7 @@ I strive to build software that tackle real world problems and help people 🌎
 - [x] python/fastapi/flask
 - [x] mongodb
 - [x] supabase/sqlite
+- [ ] postgresql
 - [ ] aws
 - [x] gcp
 - [x] Docker
@@ -31,12 +32,19 @@ I strive to build software that tackle real world problems and help people 🌎
 - [x] LLM APIs (OpenAI, Gemini, Perplexity, etc.)
 - [ ] WebSockets
 - [ ] OAuth/JWT
+- [ ] Redis/Memcache
+### Low-level
+- [ ] Raspberry pi
+- [x] C++
+- [ ] C
+- [ ] Rust
+- [ ] Linux
 ### AI
 - [ ] Deep Learning
   - [ ] Pytorch
   - [ ] Tensorflow
   - [ ] Keras
-  - [ ] Neural Networks
+  - [ ] Neural Networks (CNN, RNN, etc.)
 - [ ] Machine Learning
   - [ ] Pandas
   - [ ] Scikit learn
@@ -48,12 +56,6 @@ I strive to build software that tackle real world problems and help people 🌎
   - [x] Pinecone
   - [x] Vector Databases
   - [x] MCP
-### Low-level
-- [ ] Raspberry pi
-- [x] C++
-- [ ] C
-- [ ] Rust
-- [ ] Linux
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
