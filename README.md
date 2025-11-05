@@ -19,13 +19,13 @@ I strive to build software that tackle real world problems and help people 🌎
 ### Fullstack
 - [x] react/next.js
 - [x] tailwind
-- [x] typescript/express
+- [x] javascript/typescript/express
 - [x] python/fastapi/flask
 - [x] mongodb
-- [x] supabase/sqlite
+- [x] supabase
+- [x] sqlite
 - [ ] postgresql
-- [ ] aws
-- [x] gcp
+- [x] google cloud platform
 - [x] Docker
 - [ ] Kubernetes
 - [x] RESTful APIs
@@ -34,7 +34,7 @@ I strive to build software that tackle real world problems and help people 🌎
 - [ ] OAuth/JWT
 - [ ] Redis/Memcache
 ### Low-level
-- [ ] Raspberry pi
+- [ ] Operating Systems
 - [x] C++
 - [ ] C
 - [ ] Rust
