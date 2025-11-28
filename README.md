@@ -6,7 +6,7 @@ I'm a chill guy who loves to help other people that are in need
 ## ⚡ Things I like to do on my freetime
 - Play piano 🎹
 - Binge on Netflix and YouTube 📺
-- Listen to rnb, synthwave/cyberpunk, classical piano, and lofi 🎧
+- Listen to rnb, synthwave/cyberpunk, classical piano, lofi, and rave/dj 🎧
 - Watch NBA/college ball 🏀 and NFL/umich football 🔵〽️🏈
 
 ## 📫 How to reach me
