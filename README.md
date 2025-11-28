@@ -1,62 +1,40 @@
 ## What's up, I'm Aaron 👋
-CS @ University of Michigan Dearborn 2028 〽️
+cs @ umich dearborn 2028 〽️
 
-I strive to build software that tackle real world problems and help people 🌎
+I'm a chill guy who loves to help other people that are in need
 
-### ⚡ Things I like to do on my freetime
+## ⚡ Things I like to do on my freetime
 - Play piano 🎹
-- Watch anime 📺
-  - my favorites are hxh, sakamoto days, haikyuu, kuroko no basketball, mashle, and demon slayer
-- Listening to music 🎧
-  - my taste consists of rave/dj, rnb, and synthwave/cyberpunk
-- Watch NBA 🏀 and sometimes umich football 🔵〽️🏈
-- Binge on Netflix and Youtube
+- Binge on Netflix and YouTube 📺
+- Listen to rnb, synthwave/cyberpunk, classical piano, and lofi 🎧
+- Watch NBA/college ball 🏀 and NFL/umich football 🔵〽️🏈
 
-### 📫 How to reach me
+## 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
 
-### 🌱 Aspiring Skillset
-### Fullstack
-- [x] react/next.js
-- [x] tailwind
-- [x] javascript/typescript/express
-- [x] python/fastapi/flask
-- [x] mongodb
-- [x] supabase
-- [x] sqlite
-- [ ] postgresql
-- [x] google cloud platform
-- [x] Docker
-- [ ] Kubernetes
-- [x] RESTful APIs
-- [x] LLM APIs (OpenAI, Gemini, Perplexity, etc.)
+## 🌱 Skillset
+- React/NextJS
+- TypeScript (Express)
+- Python (FastAPI/Flask)
+- C++
+- NoSQL (MongoDB)
+- SQL (Supabase, SQLite, PostgreSQL)
+- Google Cloud Platform
+- RESTful APIs
+- LLM APIs (OpenAI, Gemini, Perplexity, etc.)
+- Linux
+- Pinecone
+  
+Still want to learn
 - [ ] WebSockets
 - [ ] OAuth/JWT
 - [ ] Redis/Memcache
-### Low-level
-- [ ] Operating Systems
-- [x] C++
 - [ ] C
 - [ ] Rust
-- [ ] Linux
-### AI
-- [ ] Deep Learning
-  - [ ] Pytorch
-  - [ ] Tensorflow
-  - [ ] Keras
-  - [ ] Neural Networks (CNN, RNN, etc.)
-- [ ] Machine Learning
-  - [ ] Pandas
-  - [ ] Scikit learn
-  - [ ] Numpy/Matplotlib
-- [ ] Generative AI
-  - [ ] AI Agents (Fetch.ai, CrewAI, etc.)
-  - [ ] Langchain/Langgraph
-  - [ ] RAG
-  - [x] Pinecone
-  - [x] Vector Databases
-  - [x] MCP
-
+- [ ] AI Agents (CrewAI, n8n, Google ADK, OpenAI Agents SDK)
+- [ ] Langchain/Langgraph
+- [ ] Docker
+- [ ] Kubernetes
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
