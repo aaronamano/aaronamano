@@ -1,7 +1,7 @@
 ## What's up, I'm Aaron 👋
 cs @ umich dearborn 2028 〽️
 
-I'm a chill guy who loves to help other people that are in need
+I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in AI and backend infrastructure.
 
 ## ⚡ Things I like to do on my freetime
 - Play piano 🎹
@@ -12,29 +12,6 @@ I'm a chill guy who loves to help other people that are in need
 ## 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
 
-## 🌱 Skillset
-- React/NextJS
-- TypeScript (Express)
-- Python (FastAPI/Flask)
-- C++
-- NoSQL (MongoDB)
-- SQL (Supabase, SQLite, PostgreSQL)
-- Google Cloud Platform
-- RESTful APIs
-- LLM APIs (OpenAI, Gemini, Perplexity, etc.)
-- Linux
-- Pinecone
-  
-Still want to learn
-- [ ] WebSockets
-- [ ] OAuth/JWT
-- [ ] Redis/Memcache
-- [ ] C
-- [ ] Rust
-- [ ] AI Agents (CrewAI, n8n, Google ADK, OpenAI Agents SDK)
-- [ ] Langchain/Langgraph
-- [ ] Docker
-- [ ] Kubernetes
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
