@@ -1,7 +1,7 @@
 ## What's up, I'm Aaron 👋
 cs @ umich dearborn 2028 〽️
 
-I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in working with AI and backend infrastructure.
+I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in AI and backend infrastructure.
 
 ## ⚡ What I do on my freetime
 - play piano 🎹
