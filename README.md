@@ -1,13 +1,13 @@
 ## What's up, I'm Aaron 👋
 cs @ umich dearborn 2028 〽️
 
-I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in AI and backend infrastructure.
+I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in working with AI and backend infrastructure.
 
-## ⚡ Things I like to do on my freetime
-- Play piano 🎹
-- Binge on Netflix and YouTube 📺
-- Listen to rnb, synthwave/cyberpunk, classical piano, lofi, and rave/dj 🎧
-- Watch NBA/college ball 🏀 and NFL/umich football 🔵〽️🏈
+## ⚡ What I do on my freetime
+- play piano 🎹
+- binge on netflix and youtube 📺
+- listen to rnb, synthwave/cyberpunk, classical, lofi, and rave/dj 🎧
+- watch NBA 🏀, umich basketball 🔵, and sometimes detroit lions 🦁
 
 ## 📫 How to reach me
 - Discord, Instagram, Twitter/X: @aaronamano
