@@ -1,16 +1,16 @@
-## What's up, I'm Aaron 👋
+# What's up, I'm Aaron 👋
 cs @ umich dearborn 2028 〽️
 
 I'm a chill guy who loves to help other people that are in need. Currently, I'm interested in AI and backend infrastructure.
 
-## ⚡ What I do on my freetime
+On my freetime, I:
 - play piano 🎹
 - binge on netflix and youtube 📺
-- listen to rnb, synthwave/cyberpunk, classical, lofi, and rave/dj 🎧
-- watch NBA 🏀, umich basketball 🔵, and sometimes detroit lions 🦁
+- listen to rnb, synthwave, classical, lofi, and rave 🎧
+- watch NBA 🏀
 
-## 📫 How to reach me
-- Discord, Instagram, Twitter/X: @aaronamano
+You can reach out to me on: <br>
+Discord, Instagram, Twitter/X: @aaronamano 📫
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
