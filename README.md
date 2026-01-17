@@ -2,7 +2,7 @@
 ## Background
 I'm a cs major @ umich dearborn 〽️ who aspires to help other people that are in need by building applied AI tools with React, Python, Typescript, MongoDB, PostgreSQL, LLM APIs, and AI Agent Frameworks
 
-My work:
+### My work:
 - Helped build a website for Michigan Devfest by implenting a job board component using JavaScript, React, and Tailwind
 - Creating Discord bots for a tech server to scrape and post news using Python, BeautifulSoup, and Render
 - Taking on a techincal leadership role at my Google Developer Groups where I'll conduct workshops and leetcode sessions
@@ -10,7 +10,7 @@ My work:
 Ultimately, I'm looking forward to building more with AI and further exploring its capabilities as well as finding internship opportunites where I can help build practical AI software to make a positive difference in people's lives.
 
 ## Side Quests
-On my freetime, I:
+### What I do on my freetime:
 - play piano 🎹
 - binge on netflix and youtube 📺
 - listen to rnb, synthwave, classical, lofi, and rave 🎧
