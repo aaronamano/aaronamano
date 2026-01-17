@@ -1,9 +1,13 @@
 # Hey, I'm Aaron 👋
+## Background
+I'm a cs major @ umich dearborn 〽️ who aspires to help other people that are in need by building applied AI tools with React, Python, Typescript, MongoDB, PostgreSQL, LLM APIs, and AI Agent Frameworks
 
-## Elevator Pitch
-I'm a cs major @ umich dearborn 〽️ who loves to help other people that are in need.
-Over the past several months, I've done freelance work where I helped build a website using React and JavaScript for Michigan Devfest 2025 and develop fullstack projects with mainly React (Next.js), Python (FastAPI), MongoDB, and Supabase while integrating LLM APIs and agentic frameworks.
-Currently, I'm creating Discord bots for a server while taking on a techincal leadership role at my Google Developer Groups on Campus club. Ultimately, I'm looking forward to building more with AI and further exploring its capabilities as well as finding internship opportunites where I can help build practical, applied AI software to help people and make a positive difference in their lives.
+My work:
+- Helped build a website for Michigan Devfest by implenting a job board component using JavaScript, React, and Tailwind
+- Creating Discord bots for a tech server to scrape and post news using Python, BeautifulSoup, and Render
+- Taking on a techincal leadership role at my Google Developer Groups where I'll conduct workshops and leetcode sessions
+
+Ultimately, I'm looking forward to building more with AI and further exploring its capabilities as well as finding internship opportunites where I can help build practical AI software to make a positive difference in people's lives.
 
 ## Side Quests
 On my freetime, I:
