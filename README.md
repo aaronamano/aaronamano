@@ -1,13 +1,13 @@
 # Hey, I'm Aaron 👋
 ## Background
-I'm a cs major @ umich dearborn 〽️ who aspires to help other people that are in need by building applied AI tools with React, Python, Typescript, MongoDB, PostgreSQL, LLM APIs, and AI Agent Frameworks
+I'm a cs major @ umich dearborn 〽️ who aspires to help other people that are in need. Typically, I build applied AI tools with React, Python, Typescript, MongoDB, PostgreSQL, LLM APIs, and AI Agent Frameworks
 
 ### My work:
 - Helped build a website for Michigan Devfest by implenting a job board component using JavaScript, React, and Tailwind
 - Creating Discord bots for a tech server to scrape and post news using Python, BeautifulSoup, and Render
 - Taking on a techincal leadership role at my Google Developer Groups where I'll conduct workshops and leetcode sessions
 
-Ultimately, I'm looking forward to building more with AI and further exploring its capabilities as well as finding internship opportunites where I can help build practical AI software to make a positive difference in people's lives.
+Ultimately, I'm looking forward to build more with AI and further explore its capabilities. I'm also searching for internship opportunites where I can help build practical AI software tools to make a positive difference in people's lives.
 
 ## Side Quests
 ### What I do on my freetime:
