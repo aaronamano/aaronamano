@@ -7,7 +7,7 @@ I'm a cs major @ umich dearborn 〽️ who aspires to help other people in need.
 - Building Discord bots for a tech server to scrape and post news using Python, BeautifulSoup, and Render
 - Leading workshops and leetcode sessions as tech lead in Google Developer Groups on Campus at UM-Dearborn
 
-Currently, I'm further exploring AI's capabilities by building more with it. Also, I'm looking forward for internship opportunites where I can help build practical AI software tools to make a positive difference in people's lives.
+I'm exploring more of AI's capabilities by consistently building with it. Also, I'm looking for internship opportunites where I can help build practical AI software tools that make a positive difference in people's lives.
 
 ## Side Quests
 - play piano 🎹
