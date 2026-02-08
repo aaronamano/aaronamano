@@ -1,13 +1,10 @@
 # Hey, I'm Aaron 👋
 ## Background
-I'm a cs major @ umich dearborn 〽️ who aspires to help other people in need. Typically, I build tools with React, Python, LLM APIs, and Agent Frameworks
+cs @ umich dearborn 〽️
 
-### My work
-- Building Discord bots for a tech server to scrape and post news using Python, BeautifulSoup, and Render
-- Leading workshops and leetcode sessions as tech lead in Google Developer Groups on Campus at UM-Dearborn
-- Implemented a job board component using JavaScript, React, and Tailwind for Michigan Devfest 2025's website
+I typically builds personal AI tools with React, Python, LLM APIs and Agentic Frameworks. I've done freelance work where I helped develop a website for Michigan Devfest 2025 and build bots for a Discord server. Currently, I'm taking on a technical leadership position on campus.
 
-**I'm exploring more of AI's capabilities by consistently building with it. Also, I'm looking for internship opportunites where I can contribute to practical AI software that make a positive difference in people's lives.**
+I'm looking for internship postions where I can help build practical software tools with agentic/generative AI.
 
 ## Side Quests
 - playing piano 🎹
@@ -15,8 +12,8 @@ I'm a cs major @ umich dearborn 〽️ who aspires to help other people in need.
 - listening to rnb, synthwave, classical, lofi, and rave 🎧
 - watching NBA 🏀
 - learning about the F1 hype and culture 🏎️
-
-**You can reach out to me on Discord, Instagram, Twitter/X @ aaronamano 📫**
+  
+**Visit my website:** https://aaronamano.vercel.app
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
