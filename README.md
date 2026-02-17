@@ -2,14 +2,15 @@
 ## Background
 cs @ umich dearborn 〽️
 
-I typically builds personal AI tools with React, Python, LLM APIs and Agentic Frameworks. I've done freelance work where I helped develop a website for Michigan Devfest 2025 and build bots for a Discord server. Currently, I'm taking on a technical leadership position on campus.
-
-I'm looking for internship postions where I can help build practical software tools with agentic/generative AI.
+- passionate on building personal generative/agentic AI tools
+- done freelance work where I used Python and React
+- currently a technical lead for Google Developer Groups on my campus
+- seeking internship postions where I can help build practical, impact-driven software tools.
 
 ## Side Quests
 - playing piano 🎹
 - binging on netflix and youtube 📺
-- listening to rnb, synthwave, classical, lofi, and rave 🎧
+- listening to rnb, synthwave, classical, lofi, and dj 🎧
 - watching NBA 🏀
 - learning about the F1 hype and culture 🏎️
   
