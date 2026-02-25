@@ -2,10 +2,9 @@
 ## Background
 cs @ umich dearborn 〽️
 
-- passionate on building personal generative/agentic AI tools with multi-agent workflows
-- done freelance work where I used Python and React
-- currently a technical lead for Google Developer Groups on my campus
-- seeking internship postions where I can help build practical, impact-driven software tools.
+- current technical lead for Google Developer Groups on Campus at UMich Dearborn 
+- passionate about building generative/agentic AI tools with multi-agent workflows to make work and life easier
+- seeking SWE/AI Engineering internship postions where I can apply my leadership skills and niche
 
 ## Side Quests
 - playing piano 🎹
