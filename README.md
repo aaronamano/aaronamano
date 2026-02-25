@@ -13,7 +13,8 @@ cs @ umich dearborn 〽️
 - watching NBA 🏀
 - learning about the F1 hype and culture 🏎️
   
-**Visit my website:** https://aaronamano.vercel.app
+🌐 **Visit my website:** aaronamano [dot] vercel [dot] app <br>
+📧 **Reach out to me:** amanoac [at] umich [dot] edu
 
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
