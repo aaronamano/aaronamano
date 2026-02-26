@@ -3,8 +3,8 @@
 cs @ umich dearborn 〽️
 
 - current technical lead for Google Developer Groups on Campus at UMich Dearborn 
-- passionate about building generative/agentic AI tools with multi-agent workflows to make work and life easier
-- seeking SWE/AI Engineering internship postions where I can apply my leadership skills and niche
+- strong interest in building tools with agentic workflows to make life easier for humans
+- seeking SWE/AI Engineering internship postions where I can apply leadership and my niche
 
 ## Side Quests
 - playing piano 🎹
@@ -16,6 +16,7 @@ cs @ umich dearborn 〽️
 🌐 **Visit my website:** aaronamano [dot] vercel [dot] app <br>
 📧 **Reach out to me:** amanoac [at] umich [dot] edu
 
+**Connect with me on Twitter/X:** x.com/aaronamano
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
