@@ -2,21 +2,17 @@
 ## Background
 cs @ umich dearborn 〽️
 
-- current technical lead for Google Developer Groups on Campus at UMich Dearborn 
-- strong interest in building tools with agentic workflows to make life easier for humans
-- seeking SWE/AI Engineering internship postions where I can apply leadership and my niche
+I lead and collaborate with teams to build projects and software for communities. Also, I have a strong interest in building personal tools and dashboards with agentic workflows.
 
 ## Side Quests
 - playing piano 🎹
-- binging on netflix and youtube 📺
-- listening to rnb, synthwave, classical, lofi, and dj 🎧
-- watching NBA 🏀
-- learning about the F1 hype and culture 🏎️
+- watching Detroit Pistons 🏀
+- watching F1 racing 🏎️
+- traveling out of state ✈️
   
-🌐 **Visit my website:** aaronamano [dot] vercel [dot] app <br>
-📧 **Reach out to me:** amanoac [at] umich [dot] edu
-
-**Connect with me on Twitter/X:** x.com/aaronamano
+🌐 **Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
+📧 **Email:** amanoac [at] umich [dot] edu <br>
+📲 **Twitter:** [x.com/aaronamano](https://x.com/aaronamano)
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
