@@ -9,7 +9,6 @@ I lead and collaborate with teams to build projects and software for communities
 - watching Detroit Pistons 🏀
 - watching F1 racing 🏎️
 - traveling out of state ✈️
-- grinding in GTA Online (waiting for GTA VI) 🎮
   
 🌐 **Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
 📧 **Email:** amanoac [at] umich [dot] edu <br>
