@@ -1,18 +1,20 @@
 # Hey, I'm Aaron 👋
-## Background
 cs @ umich dearborn 〽️
 
-I lead and collaborate with teams to build projects and software for communities. Also, I have a strong interest in building personal tools and dashboards with agentic workflows.
+I collaborate with teams to build projects/software for communities
 
-## Side Quests
-- playing piano 🎹
-- watching Detroit Pistons 🏀
-- watching F1 racing 🏎️
-- traveling out of state ✈️
-  
-🌐 **Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
-📧 **Email:** amanoac [at] umich [dot] edu <br>
-📲 **Twitter:** [x.com/aaronamano](https://x.com/aaronamano)
+Looking forward to build more with AI 👀
+
+## Hobbies
+🎹 playing piano
+🏀 watching Detroit Pistons
+🏎️ watching F1 racing
+✈️ traveling out of state
+
+## Contact
+**Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
+**Email:** amanoac@umich.edu <br>
+**Twitter:** [x.com/aaronamano](https://x.com/aaronamano)
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
