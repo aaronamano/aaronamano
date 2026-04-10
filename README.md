@@ -6,9 +6,9 @@ I collaborate with teams to build projects/software for communities
 Looking forward to build more with AI 👀
 
 ## Hobbies
-🎹 playing piano
-🏀 watching Detroit Pistons
-🏎️ watching F1 racing
+🎹 playing piano <br>
+🏀 watching Detroit Pistons <br>
+🏎️ watching F1 racing <br>
 ✈️ traveling out of state
 
 ## Contact
