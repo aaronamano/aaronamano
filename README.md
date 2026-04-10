@@ -1,17 +1,18 @@
-# Hey, I'm Aaron 👋
-cs @ umich dearborn 〽️
+### Hey, I'm Aaron 👋
 
 I collaborate with teams to build projects/software for communities
 
 Looking forward to build more with AI 👀
 
-## Hobbies
+### Hobbies
+
 🎹 playing piano <br>
 🏀 watching Detroit Pistons <br>
 🏎️ watching F1 racing <br>
 ✈️ traveling out of state
 
-## Contact
+### Contact
+
 **Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
 **Email:** amanoac@umich.edu <br>
 **Twitter:** [x.com/aaronamano](https://x.com/aaronamano)
