@@ -9,13 +9,13 @@ Looking forward to build more with AI 👀
 🎹 playing piano <br>
 🏀 watching Detroit Pistons <br>
 🏎️ watching F1 racing <br>
-✈️ traveling out of state
+✈️ traveling out of state <br>
 
 ### Contact
 
-**Portfolio:** [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
-**Email:** amanoac@umich.edu <br>
-**Twitter:** [x.com/aaronamano](https://x.com/aaronamano)
+Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
+Email: amanoac@umich.edu <br>
+Twitter: [x.com/aaronamano](https://x.com/aaronamano)
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
