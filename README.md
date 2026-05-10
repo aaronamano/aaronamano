@@ -1,8 +1,8 @@
 ### Hey, I'm Aaron 👋
 
-I collaborate with teams to build projects/software for communities
+I collaborate with teams to build for communities
 
-Looking forward to build more with AI and IoT 👀
+Looking forward to build more with AI Agent Frameworks, Agentic RAG, Google Cloud, and possibly IoT 👀
 
 ### Hobbies
 
@@ -14,7 +14,7 @@ Looking forward to build more with AI and IoT 👀
 ### Contact
 
 Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
-Email: amanoac@umich.edu | aaroncedric2005@yahoo.com <br>
+Email: amanoac@umich.edu | aaroncedric2005@gmail.com <br>
 Twitter: [x.com/aaronamano](https://x.com/aaronamano)
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
