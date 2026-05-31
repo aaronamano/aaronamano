@@ -1,8 +1,10 @@
 ### Hey, I'm Aaron 👋
 
-I collaborate with teams to build for communities
+Dev Lead, Hack Dearborn 5 <br>
+Technical Lead, Google Developer Groups on Campus at UM-Dearborn
 
-Looking forward to build more with AI Agent Frameworks, Agentic RAG, Google Cloud, and possibly IoT 👀
+🌱 Currently learning ML and DL Fundamentals through DeepLearning.AI <br>
+👀 Pursuing to build more with Agent Frameworks (Mastra, Google ADK, Langchain/Langgraph), Pytorch, OpenCV, and Rust/C++
 
 ### Hobbies
 
