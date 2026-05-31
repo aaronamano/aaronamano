@@ -4,7 +4,7 @@ Dev Lead, Hack Dearborn 5 <br>
 Technical Lead, Google Developer Groups on Campus at UM-Dearborn
 
 🌱 Currently learning ML and DL Fundamentals through DeepLearning.AI <br>
-👀 Pursuing to build more with Agent Frameworks (Mastra, Google ADK, Langchain/Langgraph), Pytorch, OpenCV, and Rust/C++
+👀 Pursuing to build more with Agent Frameworks (Mastra, Google ADK, Langchain/Langgraph), Pytorch, OpenCV, and Rust
 
 ### Hobbies
 
