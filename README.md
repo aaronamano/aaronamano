@@ -12,12 +12,6 @@ Technical Lead, *Google Developer Groups on Campus at UM-Dearborn*
 🏎️ watching F1 racing <br>
 ✈️ traveling out of state <br>
 🎶 singing with a church choir
-
-### Contact
-
-Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
-Personal Email: aaroncedric2005@gmail.com <br>
-School Email: amanoac@umich.edu <br>
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
