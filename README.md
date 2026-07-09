@@ -1,9 +1,8 @@
 ### Hey, I'm Aaron 👋
 
-Dev Lead, Hack Dearborn 5 <br>
-Technical Lead, Google Developer Groups on Campus at UM-Dearborn
+Dev Lead, *Hack Dearborn 5* <br>
+Technical Lead, *Google Developer Groups on Campus at UM-Dearborn*
 
-🌱 Currently learning ML and DL Fundamentals through DeepLearning.AI <br>
 👀 Still exploring niches and figuring out what I want to pursue...
 
 ### Hobbies
@@ -17,8 +16,8 @@ Technical Lead, Google Developer Groups on Campus at UM-Dearborn
 ### Contact
 
 Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app) <br>
-Email: amanoac@umich.edu | aaroncedric2005@gmail.com <br>
-Twitter: [x.com/aaronamano](https://x.com/aaronamano)
+Personal Email: aaroncedric2005@gmail.com <br>
+School Email: amanoac@umich.edu <br>
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
