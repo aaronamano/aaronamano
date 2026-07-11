@@ -11,11 +11,12 @@ Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
 
 ### Hobbies
 
-🎹 playing piano <br>
-🏀 watching Detroit Pistons <br>
-🏎️ watching F1 racing <br>
-✈️ traveling out of state <br>
-🎶 singing with a church choir
+- playing piano
+- watching Detroit Pistons
+- watching FIFA
+- watching F1 racing
+- traveling out of state
+- singing with a church choir
 
 
 <!--
