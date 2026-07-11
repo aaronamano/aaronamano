@@ -1,10 +1,12 @@
 ### Hey, I'm Aaron 👋
 
-**Dev Lead**, Hack Dearborn 5 <br>
-**Technical Lead**, Google Developer Groups on Campus at UM-Dearborn
+**Dev Lead**, _Hack Dearborn 5_ <br>
+**Technical Lead**, _Google Developer Groups on Campus at UM-Dearborn_
 
-🌱 Currently learning ML fundamentals by DeepLearning.AI
-🦀 Looking forward to learning Rust
+Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
+
+🌱 Currently learning ML fundamentals by DeepLearning.AI <br>
+🦀 Looking forward to learning Rust soon <br>
 👀 Still exploring niches and figuring out what I want to pursue...
 
 ### Hobbies
@@ -14,6 +16,8 @@
 🏎️ watching F1 racing <br>
 ✈️ traveling out of state <br>
 🎶 singing with a church choir
+
+
 <!--
 **aaronamano/aaronamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
