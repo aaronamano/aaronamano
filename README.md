@@ -1,8 +1,10 @@
 ### Hey, I'm Aaron 👋
 
-Dev Lead, *Hack Dearborn 5* <br>
-Technical Lead, *Google Developer Groups on Campus at UM-Dearborn*
+**Dev Lead**, Hack Dearborn 5 <br>
+**Technical Lead**, Google Developer Groups on Campus at UM-Dearborn
 
+🌱 Currently learning ML fundamentals by DeepLearning.AI
+🦀 Looking forward to learning Rust
 👀 Still exploring niches and figuring out what I want to pursue...
 
 ### Hobbies
