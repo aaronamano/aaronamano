@@ -5,11 +5,10 @@
 
 Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
 
-🌱 Currently learning ML fundamentals by DeepLearning.AI <br>
-🦀 Looking forward to learning Rust soon <br>
-👀 Still exploring niches and figuring out what I want to pursue...
-
-### Hobbies
+### What I'm to up to despite the state of the job market
+🌱 learning ML fundamentals by DeepLearning.AI <br>
+🌱 learning C, Rust, and reviewing C++ <br>
+🔍 exploring other niches and figuring out what I want to pursue...
 
 - playing piano
 - watching Detroit Pistons
