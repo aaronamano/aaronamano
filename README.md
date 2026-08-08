@@ -1,11 +1,10 @@
 ### Hey, I'm Aaron 👋
 
-**Dev Lead**, _Hack Dearborn 5_ <br>
+**Fullstack Dev (Core Team)**, _Hack Dearborn 5_ <br>
 **Technical Lead**, _Google Developer Groups on Campus at UM-Dearborn_
 
+Email: amanoac@umich.edu <br>
 Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
-
-<br>
 
 🌱 learning systems programming + ML fundamentals by DeepLearning.AI <br>
 🔍 exploring other niches and figuring out what I want to pursue...
