@@ -7,9 +7,7 @@ Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
 
 <br>
 
-##### What I'm to up to despite the all the stuff happening in the world
-🌱 learning ML fundamentals by DeepLearning.AI <br>
-🌱 learning C, Rust, and reviewing C++ <br>
+🌱 learning systems programming + ML fundamentals by DeepLearning.AI <br>
 🔍 exploring other niches and figuring out what I want to pursue...
 
 - playing piano
