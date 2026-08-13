@@ -1,20 +1,22 @@
 ### Hey, I'm Aaron 👋
 
+I am ✨ambiverted✨
+
 **Fullstack Dev (Core Team)**, _Hack Dearborn 5_ <br>
 **Technical Lead**, _Google Developer Groups on Campus at UM-Dearborn_
 
 Email: amanoac@umich.edu <br>
 Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
 
-🌱 learning systems programming + ML fundamentals by DeepLearning.AI <br>
-🔍 exploring other niches and figuring out what I want to pursue...
+🌱 learning systems programming + ML
 
-- playing piano
-- watching Detroit Pistons
-- watching FIFA
-- watching F1 racing
-- traveling out of state
-- singing with a church choir
+### Hobbies
+- build, build, build, and network
+- play piano
+- watch Detroit Pistons, FIFA, F1 racing, and anime
+- read manga
+- travel out of state
+- sing with a church choir
 
 
 <!--
