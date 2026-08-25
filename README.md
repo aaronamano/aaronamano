@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-I am ✨ambiverted✨
+I am an ✨ambivert✨
 
 **Fullstack Dev (Core Team)**, _Hack Dearborn 5_ <br>
 **Technical Lead**, _Google Developer Groups on Campus at UM-Dearborn_
@@ -17,6 +17,7 @@ Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
 - read manga
 - travel out of state
 - sing with a church choir
+- go to raves
 
 
 <!--
