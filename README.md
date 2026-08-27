@@ -1,23 +1,39 @@
 ### Hey, I'm Aaron 👋
-
-I am an ✨ambivert✨
-
-**Fullstack Dev (Core Team)**, _Hack Dearborn 5_ <br>
-**Technical Lead**, _Google Developer Groups on Campus at UM-Dearborn_
-
-Email: amanoac@umich.edu <br>
-Portfolio: [aaronamano.vercel.app](https://aaronamano.vercel.app)
-
-🌱 learning systems programming + ML
-
-### Hobbies
-- build, build, build, and network
-- play piano
-- watch Detroit Pistons, FIFA, F1 racing, and anime
-- read manga
-- travel out of state
-- sing with a church choir
-- go to raves
+```json
+{
+  "profile": {
+    "name": "Aaron",
+    "ethnicity": "Filipino 🇵🇭",
+    "type": "ambivert"
+  },
+  "experience": [
+    {
+      "title": "Fullstack Developer",
+      "org": "Hack Dearborn 5"
+    },
+    {
+      "title": "Technical Lead",
+      "org": "Google Developer Groups at Umich Dearborn"
+    },
+    {
+      "title": "Backend Developer",
+      "org": "Filipino Americans in Tech"
+    },
+    {
+      "title": "Frontend Developer",
+      "org": "Google Developer Groups Detroit"
+    }
+  ],
+  "contacts": {
+    "email": "amanoac@umich.edu",
+    "portfolio": "aaronamano.vercel.app",
+    "github": "github.com/aaronamano",
+    "linkedin": "linkedin.com/in/aaronamano"
+  },
+  "hobbies": ["building", "traveling", "piano", "Detroit Pistons", "FIFA", "F1 racing", "anime", "manga", "raves"],
+  "interests": ["ML/DL Infra", "LLMs", "Inference", "HPC", "Systems Programming", "AI Agents", "GCP", "PyTorch", "Python", "C/C++"]
+}
+```
 
 
 <!--
