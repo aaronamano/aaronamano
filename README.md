@@ -31,7 +31,7 @@
     "linkedin": "linkedin.com/in/aaronamano"
   },
   "hobbies": ["building", "traveling", "piano", "Detroit Pistons", "FIFA", "F1 racing", "anime", "manga", "raves"],
-  "interests": ["ML/DL Infra", "LLMs", "Inference", "HPC", "Systems Programming", "AI Agents", "GCP", "PyTorch", "Python", "C/C++"]
+  "interests": ["LLMs", "Inference", "HPC", "Systems Programming", "AI Agents", "PyTorch", "Google Cloud"]
 }
 ```
 
