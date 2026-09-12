@@ -1,8 +1,7 @@
-### Hey, I'm Aaron 👋
 ```json
 {
   "profile": {
-    "name": "Aaron",
+    "greeting": "Hey, I'm Aaron 👋",
     "ethnicity": "Filipino 🇵🇭",
     "type": "ambivert"
   },
