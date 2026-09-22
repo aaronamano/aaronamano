@@ -5,26 +5,8 @@
     "ethnicity": "Filipino 🇵🇭",
     "type": "ambivert"
   },
-  "experience": [
-    {
-      "title": "Fullstack Developer",
-      "org": "Hack Dearborn 5"
-    },
-    {
-      "title": "Technical Lead",
-      "org": "Google Developer Groups at Umich Dearborn"
-    },
-    {
-      "title": "Backend Developer",
-      "org": "Filipino Americans in Tech"
-    },
-    {
-      "title": "Frontend Developer",
-      "org": "Google Developer Groups Detroit"
-    }
-  ],
   "contacts": {
-    "email": "amanoac@umich.edu",
+    "email": "amanoac (at) umich (dot) edu",
     "portfolio": "aaronamano.vercel.app",
     "github": "github.com/aaronamano",
     "linkedin": "linkedin.com/in/aaronamano"
